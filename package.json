@@ -1,0 +1,14 @@
+{
+  "name": "teng-conlang-creator",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A browser-only constructed-language workshop.",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

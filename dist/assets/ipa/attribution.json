@@ -1,0 +1,1037 @@
+{
+  "ipa-70": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_bilabial_plosive.ogg",
+    "sourceFile": "Voiceless_bilabial_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_bilabial_plosive.ogg.mp3",
+    "blobSha": "c30b2150a156dc7f2d0dbe735c4ef8a8d9d34591",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-62": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_bilabial_plosive.ogg",
+    "sourceFile": "Voiced_bilabial_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_bilabial_plosive.ogg.mp3",
+    "blobSha": "3b40d080eeb8ba5ed60016914138d56227d7ea23",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-74": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_plosive.ogg",
+    "sourceFile": "Voiceless_alveolar_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiceless_alveolar_plosive_t.ogg.mp3",
+    "blobSha": "bdbaddb240caf798034ae995c685c65235d09860",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-64": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_plosive.ogg",
+    "sourceFile": "Voiced_alveolar_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_alveolar_plosive_d.ogg.mp3",
+    "blobSha": "2824d3d173f088770cdc72ba9eaf1a410e5deba0",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-288": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_retroflex_stop.oga",
+    "sourceFile": "Voiceless_retroflex_stop.oga",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_retroflex_stop.oga.mp3",
+    "blobSha": "dbc4deb8a7eff2d9ae9e05cc822ba798ba35110c",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-256": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_retroflex_stop.oga",
+    "sourceFile": "Voiced_retroflex_stop.oga",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_retroflex_stop.oga.mp3",
+    "blobSha": "f0a7e008429c25b2773c25d880f8688c969aeca7",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-63": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_palatal_plosive.ogg",
+    "sourceFile": "Voiceless_palatal_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_palatal_plosive.ogg.mp3",
+    "blobSha": "ad4b69d49dec651786489d9287a4a77282377bd1",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-25f": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_palatal_plosive.ogg",
+    "sourceFile": "Voiced_palatal_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_palatal_plosive_c.ogg.mp3",
+    "blobSha": "80b051863e90b92c045b226821edaf299ecaecb9",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-6b": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_velar_plosive.ogg",
+    "sourceFile": "Voiceless_velar_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiceless_velar_plosive_k.ogg.mp3",
+    "blobSha": "03902cde68d1da8ec9c6511949a5d2d18768e6f1",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-261": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_velar_plosive.ogg",
+    "sourceFile": "Voiced_velar_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_velar_plosive_g.ogg.mp3",
+    "blobSha": "8fa98f0d1767d3ec17e491b867ddcdb1eebb40bc",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-71": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_uvular_plosive.ogg",
+    "sourceFile": "Voiceless_uvular_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_uvular_plosive.ogg.mp3",
+    "blobSha": "4b23555319ad848c6b6e2ed12b00da5a8dbced7b",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-262": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_uvular_stop.oga",
+    "sourceFile": "Voiced_uvular_stop.oga",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_uvular_stop.oga.mp3",
+    "blobSha": "1a2139cbd8a5ba828cc5916ce0af479a50bf7e22",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-294": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Glottal_stop.ogg",
+    "sourceFile": "Glottal_stop.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Glottal_stop_%CA%94.ogg.mp3",
+    "blobSha": "fb3397cd7bd40b096f2730e491503be58da3728d",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-6d": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bilabial_nasal.ogg",
+    "sourceFile": "Bilabial_nasal.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Bilabial_nasal_m.ogg.mp3",
+    "blobSha": "64e7c66cd1da6d163a99451fcdf90cc29a144897",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-271": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Labiodental_nasal.ogg",
+    "sourceFile": "Labiodental_nasal.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Labiodental_nasal.ogg.mp3",
+    "blobSha": "627014db636b10b0f794dcdfc6bf42829699c432",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-6e": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_nasal.ogg",
+    "sourceFile": "Alveolar_nasal.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Alveolar_nasal_n.ogg.mp3",
+    "blobSha": "a967254cd19e7c0585e17772353eed0d2bcc6686",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-273": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Retroflex_nasal.ogg",
+    "sourceFile": "Retroflex_nasal.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Retroflex_nasal.ogg.mp3",
+    "blobSha": "9d099febc136aec47233aa8397edf089e43964ef",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-272": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Palatal_nasal.ogg",
+    "sourceFile": "Palatal_nasal.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Palatal_nasal_%C9%B2.ogg.mp3",
+    "blobSha": "8e3862db15baecffb2fbd4095cbfbf5250c0a76d",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-14b": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Velar_nasal.ogg",
+    "sourceFile": "Velar_nasal.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Velar_nasal_%C5%8B.ogg.mp3",
+    "blobSha": "ad50baa8d1ee5fff636ecf36786f387308dcc03f",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-274": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Uvular_nasal.ogg",
+    "sourceFile": "Uvular_nasal.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Uvular_nasal.ogg.mp3",
+    "blobSha": "57f86eb53b52bf357d1453040c6450573c88fca8",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-299": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bilabial_trill.ogg",
+    "sourceFile": "Bilabial_trill.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Bilabial_trill.ogg.mp3",
+    "blobSha": "c13c549f15ad47d72b784bdf7e414cd7322e07a4",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-72": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_trill.ogg",
+    "sourceFile": "Alveolar_trill.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Alveolar_trill.ogg.mp3",
+    "blobSha": "d2feb0d8e29399b563b44678cb7c92f0b1736bd8",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-280": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Uvular_trill.ogg",
+    "sourceFile": "Uvular_trill.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Uvular_trill.ogg.mp3",
+    "blobSha": "74d1d8840b406b80c1507c566f906392b2ae52d0",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-2c71": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Labiodental_flap.ogg",
+    "sourceFile": "Labiodental_flap.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Labiodental_flap.ogg.mp3",
+    "blobSha": "d78b589fc457a4e3cb6722ea6c1b4945246c87f6",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-27e": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_tap.ogg",
+    "sourceFile": "Alveolar_tap.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Alveolar_tap.ogg.mp3",
+    "blobSha": "1d9cc1fe60d6a8aed0431c45c15efabd42307bf0",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-27d": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Retroflex_flap.ogg",
+    "sourceFile": "Retroflex_flap.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Retroflex_flap.ogg.mp3",
+    "blobSha": "6ed2748c712c69d3bb07cbcb3305a3500de5a57a",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-278": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_bilabial_fricative.ogg",
+    "sourceFile": "Voiceless_bilabial_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_bilabial_fricative.ogg.mp3",
+    "blobSha": "fc745245bdf1a49c49aa8684d87021f787b4755f",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-3b2": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_bilabial_fricative.ogg",
+    "sourceFile": "Voiced_bilabial_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_bilabial_fricative.ogg.mp3",
+    "blobSha": "e5d7814906b2c4b9219f59cc8202a4acf5fa6a2f",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-66": {
+    "author": "Nixinova",
+    "license": "CC0 1.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_labio-dental_fricative.ogg",
+    "sourceFile": "Voiceless_labio-dental_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiceless_labio-dental_fricative_f.ogg.mp3",
+    "blobSha": "ad14b017138e81015dcd52aee58c9c6d9d7d8c30",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-76": {
+    "author": "Nixinova",
+    "license": "CC0 1.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_labio-dental_fricative.ogg",
+    "sourceFile": "Voiced_labio-dental_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_labio-dental_fricative_v.ogg.mp3",
+    "blobSha": "e40743a49ccb7b727eae6a0769ab4673322741f2",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-3b8": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_dental_fricative.ogg",
+    "sourceFile": "Voiceless_dental_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiceless_dental_fricative_%CE%B8.ogg.mp3",
+    "blobSha": "8d56f5cfea062eaaf1d602a539c3d48cc3e6074a",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-f0": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_dental_fricative.ogg",
+    "sourceFile": "Voiced_dental_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_dental_fricative_%C3%B0.ogg.mp3",
+    "blobSha": "fa4d68af48dacb7ce46d109f3728c3d6dc7a9b0f",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-73": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_sibilant.ogg",
+    "sourceFile": "Voiceless_alveolar_sibilant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiceless_alveolar_sibilant_s.ogg.mp3",
+    "blobSha": "c205aa83fe54be2c97a2daf30e4771ca12d90b89",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-7a": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_sibilant.ogg",
+    "sourceFile": "Voiced_alveolar_sibilant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_alveolar_sibilant_z.ogg.mp3",
+    "blobSha": "204ed42b3b86ac714dd12356f96bcdf631b5f4ff",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-283": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_palato-alveolar_sibilant.ogg",
+    "sourceFile": "Voiceless_palato-alveolar_sibilant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiceless_palato-alveolar_sibilant_%CA%83.ogg.mp3",
+    "blobSha": "7dfa4a3c1881889f07d0e40ccb96af1fc69a367b",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-292": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_sibilant.ogg",
+    "sourceFile": "Voiced_palato-alveolar_sibilant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_palato-alveolar_sibilant_%CA%92.ogg.mp3",
+    "blobSha": "2c337d875f35ae290d1bd5828ce5f786f632361a",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-282": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_retroflex_sibilant.ogg",
+    "sourceFile": "Voiceless_retroflex_sibilant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_retroflex_sibilant.ogg.mp3",
+    "blobSha": "b45bb5d8eb4ce542d30602f288768350fe76eda6",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-290": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_retroflex_sibilant.ogg",
+    "sourceFile": "Voiced_retroflex_sibilant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_retroflex_sibilant.ogg.mp3",
+    "blobSha": "e96a21df258f9b1507d027086eb350b6f365efda",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-e7": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_palatal_fricative.ogg",
+    "sourceFile": "Voiceless_palatal_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_palatal_fricative.ogg.mp3",
+    "blobSha": "9a59f661cb98ac3dcab5469adfa6a3ca071bb83e",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-29d": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_palatal_fricative.ogg",
+    "sourceFile": "Voiced_palatal_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_palatal_fricative.ogg.mp3",
+    "blobSha": "41174e530a1e4b1b8fd1948e39296fb8b7b2a511",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-78": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_velar_fricative.ogg",
+    "sourceFile": "Voiceless_velar_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiceless_velar_fricative_x.ogg.mp3",
+    "blobSha": "6c2ccb53ec9ff898720f13b3fa22b95058ce40ae",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-263": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_velar_fricative.ogg",
+    "sourceFile": "Voiced_velar_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_velar_fricative.ogg.mp3",
+    "blobSha": "bd6a801d95e2c3b206baa34d8fbfea5a1a7d4956",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-3c7": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_uvular_fricative.ogg",
+    "sourceFile": "Voiceless_uvular_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_uvular_fricative.ogg.mp3",
+    "blobSha": "e49f09c5f97146deca0d59d6a439d47614e241cb",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-281": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_uvular_fricative.ogg",
+    "sourceFile": "Voiced_uvular_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_uvular_fricative.ogg.mp3",
+    "blobSha": "6b03178a9a75569420041681114d42422f2791ec",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-127": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_pharyngeal_fricative.ogg",
+    "sourceFile": "Voiceless_pharyngeal_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_pharyngeal_fricative.ogg.mp3",
+    "blobSha": "20b54b421dca0855b4c0e626ecd088e01eaa6f6d",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-295": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_pharyngeal_fricative.ogg",
+    "sourceFile": "Voiced_pharyngeal_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_pharyngeal_fricative.ogg.mp3",
+    "blobSha": "4dd604699986fb049af352f1fec4296ba53a9381",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-68": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_glottal_fricative.ogg",
+    "sourceFile": "Voiceless_glottal_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_glottal_fricative.ogg.mp3",
+    "blobSha": "af8f91f3d0251bcc0e1b58dfd6a049d8127587e2",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-266": {
+    "author": "Karmosin (Peter Isotalo)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_glottal_fricative.ogg",
+    "sourceFile": "Voiced_glottal_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_glottal_fricative_h.ogg.mp3",
+    "blobSha": "afe29c1db3759b7a3ae8b4d98d76419f5ed52325",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-26c": {
+    "author": "tFighterPilot",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_lateral_fricative.ogg",
+    "sourceFile": "Voiceless_alveolar_lateral_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_alveolar_lateral_fricative.ogg.mp3",
+    "blobSha": "8dac0b5087a9ce5c3a45527a613c5f1d62f5e6d4",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-26e": {
+    "author": "Adamsa123",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_lateral_fricative.ogg",
+    "sourceFile": "Voiced_alveolar_lateral_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_alveolar_lateral_fricative.ogg.mp3",
+    "blobSha": "ba44d172f58269ad7f25f420c9d9fa1806a2ef21",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-28b": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Labiodental_approximant.ogg",
+    "sourceFile": "Labiodental_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Labiodental_approximant.ogg.mp3",
+    "blobSha": "ab4c9278f9af37b336e176499019601dbbde0248",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-279": {
+    "author": "Erutuon",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_approximant.ogg",
+    "sourceFile": "Alveolar_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Alveolar_approximant_%C9%B9.ogg.mp3",
+    "blobSha": "8d5c9367d594d501a37e60fcd9c4a4c49fcc1fd8",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-27b": {
+    "author": "Pranav Jayachand",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Retroflex_Approximant2.oga",
+    "sourceFile": "Retroflex_Approximant2.oga",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Retroflex_Approximant2.oga.mp3",
+    "blobSha": "6ef27e298bd44add47716597c6ae7561b2524eed",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-6a": {
+    "author": "Karmosin (Peter Isotalo)",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Palatal_approximant.ogg",
+    "sourceFile": "Palatal_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_palatal_approximant_j.ogg.mp3",
+    "blobSha": "922b56daf118071e2463fe3f7db0a1bf4f32a943",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-270": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_velar_approximant.ogg",
+    "sourceFile": "Voiced_velar_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_velar_approximant.ogg.mp3",
+    "blobSha": "e94bae806834d774b6e433cb1b646e035af37cfc",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-6c": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_lateral_approximant.ogg",
+    "sourceFile": "Alveolar_lateral_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/Voiced_alveolar_lateral_approximant_l.ogg.mp3",
+    "blobSha": "b3d37afc59077f13f1bfc034b3f665d8df6fae34",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-26d": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Retroflex_lateral_approximant.ogg",
+    "sourceFile": "Retroflex_lateral_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Retroflex_lateral_approximant.ogg.mp3",
+    "blobSha": "fe9483701ea5baedbf1e5ff29fa0302d6fd838c5",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-28e": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Palatal_lateral_approximant.ogg",
+    "sourceFile": "Palatal_lateral_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Palatal_lateral_approximant.ogg.mp3",
+    "blobSha": "8e61144a245c6252eb6a7d4a06a93c9ff6deb2e9",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-29f": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Velar_lateral_approximant.ogg",
+    "sourceFile": "Velar_lateral_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Velar_lateral_approximant.ogg.mp3",
+    "blobSha": "05998c8f22d36781757a959fe7b536a28520fd3d",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-69": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close_front_unrounded_vowel.ogg",
+    "sourceFile": "Close_front_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close_front_unrounded_vowel_i.ogg.mp3",
+    "blobSha": "9b485f8af0b8f3573887d341f45e9679ca00925d",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-79": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close_front_rounded_vowel.ogg",
+    "sourceFile": "Close_front_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close_front_rounded_vowel_y.ogg.mp3",
+    "blobSha": "4a9f397a0134bc866e6191466fdf376a21c33c3b",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-268": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close_central_unrounded_vowel.ogg",
+    "sourceFile": "Close_central_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close_central_unrounded_vowel_%C9%A8.ogg.mp3",
+    "blobSha": "0dc173ba50511752a2c7fe3bf3f5bc8e8603517e",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-289": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close_central_rounded_vowel.ogg",
+    "sourceFile": "Close_central_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close_central_rounded_vowel_%CA%89.ogg.mp3",
+    "blobSha": "843b43cdfa227f8d5090ff1df8d5a5cf0c579b14",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-26f": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close_back_unrounded_vowel.ogg",
+    "sourceFile": "Close_back_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close_back_unrounded_vowel_%C9%AF.ogg.mp3",
+    "blobSha": "b50f65d414e55d96ef73fdc5e61d13f82c74695f",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-75": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close_back_rounded_vowel.ogg",
+    "sourceFile": "Close_back_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close_back_rounded_vowel_u.ogg.mp3",
+    "blobSha": "a227de29e917503546e264967adfafe0d6d1a1d5",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-26a": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Near-close_near-front_unrounded_vowel.ogg",
+    "sourceFile": "Near-close_near-front_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Near-close_near-front_unrounded_vowel_%C9%AA.ogg.mp3",
+    "blobSha": "f123ed5bc721c12733e2d1f6517f50ab5977ad8f",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-28f": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Near-close_near-front_rounded_vowel.ogg",
+    "sourceFile": "Near-close_near-front_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Near-close_near-front_rounded_vowel_%CA%8F.ogg.mp3",
+    "blobSha": "65fae3d6969c97b0ad8693398468769417b65afe",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-28a": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Near-close_near-back_rounded_vowel.ogg",
+    "sourceFile": "Near-close_near-back_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Near-close_near-back_rounded_vowel_%CA%8A.ogg.mp3",
+    "blobSha": "1edfaebbf5e234e6b38c5ef9992f4158ca8c84ba",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-65": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close-mid_front_unrounded_vowel.ogg",
+    "sourceFile": "Close-mid_front_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close-mid_front_unrounded_vowel_e.ogg.mp3",
+    "blobSha": "80555bef0ba21d57072837175cbe1f30fc8c3341",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-f8": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close-mid_front_rounded_vowel.ogg",
+    "sourceFile": "Close-mid_front_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close-mid_front_rounded_vowel_%C3%B8.ogg.mp3",
+    "blobSha": "3b999902667df7676b551a0e90adc086ef843d28",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-258": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close-mid_central_unrounded_vowel.ogg",
+    "sourceFile": "Close-mid_central_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close-mid_central_unrounded_vowel_%C9%98.ogg.mp3",
+    "blobSha": "935ebe7ed965ccf74180df631bbcb9df586facfc",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-275": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close-mid_central_rounded_vowel.ogg",
+    "sourceFile": "Close-mid_central_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close-mid_central_rounded_vowel_%C9%B5.ogg.mp3",
+    "blobSha": "0e9218cbcc25a458f561bc897a49c4ad162876d4",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-264": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close-mid_back_unrounded_vowel.ogg",
+    "sourceFile": "Close-mid_back_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close-mid_back_unrounded_vowel_%C9%A4.ogg.mp3",
+    "blobSha": "2673291323cab2de9903b3dfb6298615f97c664b",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-6f": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Close-mid_back_rounded_vowel.ogg",
+    "sourceFile": "Close-mid_back_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Close_mid_back_rounded_vowel_o.ogg.mp3",
+    "blobSha": "606a1561db7731af76fb56233eeea140631f2952",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-259": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Mid-central_vowel.ogg",
+    "sourceFile": "Mid-central_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Mid-central_vowel_%C9%99.ogg.mp3",
+    "blobSha": "99fca1d16dea549182b718fe709a0085b77edf9b",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-25b": {
+    "author": "Terfili; original recording by Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_front_unrounded_vowel.ogg",
+    "sourceFile": "Open-mid_front_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open-mid_front_unrounded_vowel_%C9%9B.ogg.mp3",
+    "blobSha": "d110afd34dfa763d45ebd1797934358aa8c0dad6",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-153": {
+    "author": "JøMa",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_front_rounded_vowel.ogg",
+    "sourceFile": "Open-mid_front_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open-mid_front_rounded_vowel_%C5%93.ogg.mp3",
+    "blobSha": "9c817879d0b2b3cb57907a5d0d26b82988122568",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-25c": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_central_unrounded_vowel.ogg",
+    "sourceFile": "Open-mid_central_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open-mid_central_unrounded_vowel_%C9%9C.ogg.mp3",
+    "blobSha": "26f605b8a49fc143cafe9009dbe9cf7d0dc40e00",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-25e": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_central_rounded_vowel.ogg",
+    "sourceFile": "Open-mid_central_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open-mid_central_rounded_vowel_%C9%9E.ogg.mp3",
+    "blobSha": "1f6304120a908e472d61c97c8bad6131912dad64",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-28c": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_back_unrounded_vowel.ogg",
+    "sourceFile": "Open-mid_back_unrounded_vowel.ogg",
+    "mirror": "https://github.com/OpenLyceum/WaveComposer/blob/main/src/assets/audio/vowel-uh.ogg",
+    "blobSha": null,
+    "changes": "Converted Ogg to MP3; renamed."
+  },
+  "ipa-254": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open-mid_back_rounded_vowel.ogg",
+    "sourceFile": "Open-mid_back_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open-mid_back_rounded_vowel_%C9%94.ogg.mp3",
+    "blobSha": "328e17d7b5a47548470cf08d9562efa14d8bb24b",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-e6": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Near-open_front_unrounded_vowel.ogg",
+    "sourceFile": "Near-open_front_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Near-open_front_unrounded_vowel_%C3%A6.ogg.mp3",
+    "blobSha": "a6ab293b6a298c73457bb57a98f6107b1624c2aa",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-250": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Near-open_central_unrounded_vowel.ogg",
+    "sourceFile": "Near-open_central_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Near-open_central_unrounded_vowel_%C9%90.ogg.mp3",
+    "blobSha": "af353bbad9d2f96f13405c13e8ab2633565d1cff",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-61": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open_front_unrounded_vowel.ogg",
+    "sourceFile": "Open_front_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open_front_unrounded_vowel_a.ogg.mp3",
+    "blobSha": "94faff0948650850ac9f2337c9a5b3ca35fd2e62",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-276": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open_front_rounded_vowel.ogg",
+    "sourceFile": "Open_front_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open_front_rounded_vowel_%C9%B6.ogg.mp3",
+    "blobSha": "aeb32e7728889a8e2af9439581f421b47cb66225",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-251": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open_back_unrounded_vowel.ogg",
+    "sourceFile": "Open_back_unrounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open_back_unrounded_vowel_%C9%91.ogg.mp3",
+    "blobSha": "b6c0c690ca7c2f61774d8a838075e0e308cb737e",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-252": {
+    "author": "Denelson83",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Open_back_rounded_vowel.ogg",
+    "sourceFile": "Open_back_rounded_vowel.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/vowels/Open_back_rounded_vowel_%C9%92.ogg.mp3",
+    "blobSha": "655c1306cddbd5c3041f86ea7d657057db4f079d",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-77": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_labio-velar_approximant.ogg",
+    "sourceFile": "Voiced_labio-velar_approximant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_labio-velar_approximant.ogg.mp3",
+    "blobSha": "635fd4c3304e3d8fbeba26a030b5e38c089f0a56",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-28d": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_labio-velar_fricative.ogg",
+    "sourceFile": "Voiceless_labio-velar_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_labio-velar_fricative.ogg.mp3",
+    "blobSha": "d922d58d6f2b5c33317e72805b460866fb0dd22a",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-265": {
+    "author": "WikiLucas00 (Lingua Libre)",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:LL-Q150_(fra)-WikiLucas00-IPA_%C9%A5.wav",
+    "sourceFile": "LL-Q150_(fra)-WikiLucas00-IPA_ɥ.wav",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/LL-Q150_%2528fra%2529-WikiLucas00-IPA_%25C9%25A5.wav.mp3",
+    "blobSha": "93cd2a25f6a1ba75bee68ac373481eb9bafa9da2",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-255": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolo-palatal_sibilant.ogg",
+    "sourceFile": "Voiceless_alveolo-palatal_sibilant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_alveolo-palatal_sibilant.ogg.mp3",
+    "blobSha": "69f6cdf0363596c69d8f269be6c05ddcec6dd48a",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-291": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolo-palatal_sibilant.ogg",
+    "sourceFile": "Voiced_alveolo-palatal_sibilant.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_alveolo-palatal_sibilant.ogg.mp3",
+    "blobSha": "9f3ae45b27cc0042f5ba2db688886823967d18cb",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-27a": {
+    "author": "",
+    "license": "",
+    "url": null,
+    "sourceFile": null,
+    "mirror": null,
+    "blobSha": null,
+    "changes": null
+  },
+  "ipa-267": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_dorso-palatal_velar_fricative.ogg",
+    "sourceFile": "Voiceless_dorso-palatal_velar_fricative.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_dorso-palatal_velar_fricative.ogg.mp3",
+    "blobSha": "ef6c3738080f167922cc74d13418a9229f6c3413",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-29c": {
+    "author": "Adamsa123",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_epiglottal_trill.ogg",
+    "sourceFile": "Voiceless_epiglottal_trill.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_epiglottal_trill.ogg.mp3",
+    "blobSha": "ac621d385230189e744c4c0ca745d2e3f0175c54",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-2a2": {
+    "author": "Adamsa123",
+    "license": "CC BY-SA 4.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_epiglottal_trill_2.ogg",
+    "sourceFile": "Voiced_epiglottal_trill_2.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_epiglottal_trill_2.ogg.mp3",
+    "blobSha": "dcfdaee57096bee562e106cba5a6957bb273068b",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-2a1": {
+    "author": "Adamsa123",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Epiglottal_stop.ogg",
+    "sourceFile": "Epiglottal_stop.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Epiglottal_stop.ogg.mp3",
+    "blobSha": "7990d7618dcf34d76386dd5d1654623de0be0501",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-298": {
+    "author": "Vincent Ramos",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Clic_bilabial_sourd.ogg",
+    "sourceFile": "Clic_bilabial_sourd.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Clic_bilabial_sourd.ogg.mp3",
+    "blobSha": "c65727414cce47b2b5928ff7274669dc82ea053f",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-1c0": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Dental_click.ogg",
+    "sourceFile": "Dental_click.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Dental_click.ogg.mp3",
+    "blobSha": "3e6dffce21d0466e9fb4f61dfbe407bd9ef0e2e5",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-1c3": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Postalveolar_click.ogg",
+    "sourceFile": "Postalveolar_click.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Postalveolar_click.ogg.mp3",
+    "blobSha": "0a286a7db296ab6408e7ab186c397d8720fad981",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-1c2": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Palatoalveolar_click.ogg",
+    "sourceFile": "Palatoalveolar_click.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Palatoalveolar_click.ogg.mp3",
+    "blobSha": "3e2d0813f482da5d966db8b601208bf981122197",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-1c1": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_lateral_click.ogg",
+    "sourceFile": "Alveolar_lateral_click.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Alveolar_lateral_click.ogg.mp3",
+    "blobSha": "81e8f81a4e6888d0036e71b4b56941189907511a",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-253": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_bilabial_implosive.ogg",
+    "sourceFile": "Voiced_bilabial_implosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_bilabial_implosive.ogg.mp3",
+    "blobSha": "7d56e1cbe9364798e9ea27b2c5f6d589a36b4f9d",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-257": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_implosive.ogg",
+    "sourceFile": "Voiced_alveolar_implosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_alveolar_implosive.ogg.mp3",
+    "blobSha": "6669e3044144e6cc01580e4209cb3f41926f0d5f",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-284": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_palatal_implosive.ogg",
+    "sourceFile": "Voiced_palatal_implosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_palatal_implosive.ogg.mp3",
+    "blobSha": "4c5d75e0c14edd8935dae1932092a23e963fd215",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-260": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_velar_implosive.ogg",
+    "sourceFile": "Voiced_velar_implosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_velar_implosive.ogg.mp3",
+    "blobSha": "48f247c005d3d120135715c7776f30b300ec0a19",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-29b": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_uvular_implosive.ogg",
+    "sourceFile": "Voiced_uvular_implosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_uvular_implosive.ogg.mp3",
+    "blobSha": "8afa7a7058c47428075967b5f86188ad02cbd9b0",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-70-2bc": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Bilabial_ejective_plosive.ogg",
+    "sourceFile": "Bilabial_ejective_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Bilabial_ejective_plosive.ogg.mp3",
+    "blobSha": "eb7e0e62bc0aa9107753ef2d4b88193baa6bbadd",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-74-2bc": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Alveolar_ejective_plosive.ogg",
+    "sourceFile": "Alveolar_ejective_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Alveolar_ejective_plosive.ogg.mp3",
+    "blobSha": "459429d1e9d3184f780b86c060a3fd5fde0f7119",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-6b-2bc": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Velar_ejective_plosive.ogg",
+    "sourceFile": "Velar_ejective_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Velar_ejective_plosive.ogg.mp3",
+    "blobSha": "c1d40458776414ec610539c06ca3b884eb450b58",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-71-2bc": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Uvular_ejective_plosive.ogg",
+    "sourceFile": "Uvular_ejective_plosive.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Uvular_ejective_plosive.ogg.mp3",
+    "blobSha": "7fd7ff92cd91e459168208e9485a321f6f76948a",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-74-361-73": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_alveolar_sibilant_affricate.oga",
+    "sourceFile": "Voiceless_alveolar_sibilant_affricate.oga",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_alveolar_sibilant_affricate.oga.mp3",
+    "blobSha": "61fb036ce0229f03c512bcf9de38247762731820",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-64-361-7a": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_alveolar_sibilant_affricate.oga",
+    "sourceFile": "Voiced_alveolar_sibilant_affricate.oga",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_alveolar_sibilant_affricate.oga.mp3",
+    "blobSha": "947207b2bd3a0f09e27275f4ee7b9c3c71017878",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-74-361-283": {
+    "author": "Peter Isotalo",
+    "license": "CC BY-SA 3.0",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiceless_palato-alveolar_affricate.ogg",
+    "sourceFile": "Voiceless_palato-alveolar_affricate.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiceless_palato-alveolar_affricate.ogg.mp3",
+    "blobSha": "e2865ea72948034eba4cefedb0c6111ed8e9463e",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  },
+  "ipa-64-361-292": {
+    "author": "Octane",
+    "license": "Public domain",
+    "url": "https://commons.wikimedia.org/wiki/File:Voiced_palato-alveolar_affricate.ogg",
+    "sourceFile": "Voiced_palato-alveolar_affricate.ogg",
+    "mirror": "https://github.com/joshstephenson/PhoneticFlashCards/blob/main/ipa_audio/consonants/archive/Voiced_palato-alveolar_affricate.ogg.mp3",
+    "blobSha": "db2c7127b668e7945d88469a65f140641fc27a64",
+    "changes": "MP3 conversion from Commons by PhoneticFlashCards; renamed."
+  }
+}
